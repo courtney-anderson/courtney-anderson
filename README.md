@@ -9,4 +9,4 @@
 <h3>What I've learnt...</h3>
 HTML ✨ CSS ✨ JavaScript ✨ TypeScript ✨ React.js ✨ Node.js ✨ Express.js ✨ SQLite ✨ Vitest ✨ Git ✨ Rest APIs ✨ ...and hoping to learn a lot more!
 
-<h4>Check out my repos below to see the progress I've made so far 😊</h4>
+<h4>Check out my repos below to see the progress I've made so far ⬇️</h4>
